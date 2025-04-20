@@ -5,7 +5,7 @@ AntiScamBot est un projet Python innovant qui utilise l’intelligence artificie
 L’objectif principal est de dissuader les arnaqueurs en les piégeant dans de longues conversations inutiles, tout en collectant des données utiles à des fins de sensibilisation, d’analyse ou de prévention.
 
   Fonctionnalités
-🎭 Personnalité simulée : "Michel CASPER", 45 ans, naïf, bavard, fanatique de timbres.
+🎭 Personnalité simulée : "JUSTINE FOREST", 65 ans, naïf, bavard, à la retraite depuis 2 ans.
 🎤 Reconnaissance vocale (Speech-to-Text) via Google Cloud Speech-to-Text.
 💬 Génération de réponses contextuelles avec un LLM (Qwen2.5-32B via Nebius).
 🎙️ Synthèse vocale naturelle avec Google Cloud Text-to-Speech.
